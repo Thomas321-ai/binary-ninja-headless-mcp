@@ -6,6 +6,12 @@ Designed to run in the same Docker container as the agent runtime. No sidecars, 
 
 This entire project---code, tests, and documentation---is 100% vibe coded.
 
+## Why
+
+Existing Binary Ninja MCP servers are either GUI-bound or expose a limited tool surface. This server is headless-only and designed for agent-driven workflows in sandboxed VM/container environments: the agent gets full control over the analysis system, automating large parts of reverse engineering while you interactively discuss and steer the process.
+
+The goal is an interface where agents can inspect, refine, and extend an analysis over time — updating types, symbols, and metadata, improving the analysis database incrementally, applying patches and iterating safely with undo/redo, and running custom scripts when a workflow needs something bespoke.
+
 ## Features
 
 - **180 tools** across 35 feature groups: analysis, disassembly, IL, patching, undo/redo, types, workflows, memory, search, xrefs, scripting, and more.
